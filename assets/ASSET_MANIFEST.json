@@ -1,0 +1,120 @@
+{
+  "project": "BLUBBA Ethereum/Leonida fan website",
+  "origin_reference": "User-supplied Chunkee.zip site layout",
+  "assets": [
+    {
+      "source_slot": "meme-01",
+      "description": "Opening / First Sighting",
+      "file": "meme-01-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-02",
+      "description": "Night Drive / Coastal Cruiser",
+      "file": "meme-02-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-03",
+      "description": "Yacht Life",
+      "file": "meme-03-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-05",
+      "description": "Arcade",
+      "file": "meme-05-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-06",
+      "description": "Pool Day",
+      "file": "meme-06-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-07",
+      "description": "High-speed Ocean Chase",
+      "file": "meme-07-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-08",
+      "description": "Vice City Nightlife",
+      "file": "meme-08-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-12",
+      "description": "VIP Lifestyle",
+      "file": "meme-12-800.webp",
+      "dimension": "1672x941",
+      "type": "illustration"
+    },
+    {
+      "source_slot": "meme-04",
+      "description": "Original reworked Blubba street mural; reference-photo surroundings used",
+      "file": "meme-04-800.webp",
+      "dimension": "1672x941",
+      "type": "composite"
+    },
+    {
+      "source_slot": "meme-09",
+      "description": "Wanted poster A",
+      "file": "meme-09-512.webp",
+      "dimension": "1200x1200",
+      "type": "designed poster"
+    },
+    {
+      "source_slot": "meme-10",
+      "description": "Wanted poster B",
+      "file": "meme-10-512.webp",
+      "dimension": "1200x1200",
+      "type": "designed poster"
+    },
+    {
+      "source_slot": "meme-11",
+      "description": "Leonida postcard",
+      "file": "meme-11-800.webp",
+      "dimension": "1672x941",
+      "type": "designed illustration"
+    },
+    {
+      "source_slot": "banner",
+      "description": "3:1 promotional banner, GTA-style coastline + Blubba",
+      "file": "banner-1500.webp",
+      "dimension": "2400x800",
+      "type": "designed banner"
+    },
+    {
+      "source_slot": "pfp",
+      "description": "Profile icon, no words",
+      "file": "pfp-256.webp",
+      "dimension": "1024x1024",
+      "type": "character"
+    }
+  ],
+  "quality_notes": [
+    "All principal scenes drawn from in-conversation generated illustrations, cropped at their native 1672x941 source detail where available.",
+    "Mural combines a user-supplied reference street photograph with a newly designed posterized Blubba wall painting; it is a derivative composite.",
+    "Motorcycle chapter is reimagined as a jet-ski chase (not a motorcycle).",
+    "Bar chapter is reimagined as coastal after-hours rooftop hospitality.",
+    "Avoid implying official Rockstar Games or Ethereum Foundation endorsement.",
+    "A 1672x941 source should not be advertised as native 4K merely by enlargement."
+  ],
+  "palette": {
+    "ethereum_blue": "#627EEA",
+    "indigo": "#28345A",
+    "lavender": "#B8AEED",
+    "silver": "#E7EDF7",
+    "midnight": "#0D1735"
+  },
+  "responsive_variants": "All image filenames required by the inspected reference-site HTML are now present, including 1280/800 chapters, 1024/512 posters, 1500/800 banners, 500/256 profile."
+}
